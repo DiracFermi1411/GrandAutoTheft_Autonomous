@@ -16,3 +16,5 @@ the robot’s capabilities are assessed in tasks ranging from
 controlled mobility and communication to autonomous
 navigation, object manipulation, and interaction with
 external systems.
+
+Ongoing updates and improvements
